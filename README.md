@@ -26,4 +26,4 @@ https://www.w3schools.com/jsref/met_win_confirm.asp
 
 ## How to Contribute
 
-Update criteria to add more character types.
+Update javascript to store passwords in application.
